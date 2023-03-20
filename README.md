@@ -1,5 +1,5 @@
 # intellifilter
-Machine learning system to filter websites based on their content (Undergrad Final Project). The idea of this GitHub project is to bring back to life my graduation project with Machine Learning tools available now.
+Machine learning system to filter websites based on their content (Undergrad Final Project). The idea of this GitHub project is to bring back to life my graduation project with Machine Learning tools available now and make it scalable and production-ready if anyone would like to use it.
 
 Intellifilter was initially built in 2008 and 2009 with the next tools:
 
